@@ -1,0 +1,13 @@
+# Site settings
+title: jwnlee
+email:
+author: jwnlee
+description: "personal homepage"
+baseurl: ""
+url: "http://jwnlee.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+gems:
+  - jekyll-sitemap
