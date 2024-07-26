@@ -8,6 +8,6 @@ categories: post
 
 클린코드 책읽기
 
-3장 : 
+3장 : [요약파일](/src/clean_code_ch3.java)
 
 
